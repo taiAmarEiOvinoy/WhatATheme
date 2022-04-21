@@ -1,4 +1,9 @@
 ---
 label: post
 hide_body: false
-fields: []
+fields:
+- name: username
+  type: text
+  config:
+    required: false
+  label: username
